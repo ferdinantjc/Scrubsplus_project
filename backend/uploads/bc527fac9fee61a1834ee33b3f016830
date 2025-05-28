@@ -1,0 +1,4 @@
+image,productName,productDescription,productCategory,subCategory,productPrice,productSize,isBestSeller
+tshirt.jpg,Cotton T-Shirt,100% cotton casual t-shirt,Clothing,T-Shirts,29.99,"S,M,L,XL",true
+hoodie.jpg,Winter Hoodie,Warm and soft fleece hoodie,Clothing,Hoodies,59.99,"M,L,XL",false
+jeans.jpg,Slim Fit Jeans,Stretchable denim jeans,Clothing,Jeans,49.99,"30,32,34,36",true
